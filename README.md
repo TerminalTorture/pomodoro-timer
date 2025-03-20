@@ -2,6 +2,8 @@
 
 This is a simple Pomodoro Timer application built with React, TypeScript, and Vite. The application helps you manage your time using the Pomodoro Technique, which involves working in focused intervals followed by short breaks.
 
+![image](https://github.com/user-attachments/assets/94ce4ba8-a7cf-4127-b794-07989c392006)
+
 ## Features
 
 - Pomodoro timer (25 minutes)
